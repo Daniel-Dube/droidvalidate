@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ACTIVITY_ENTRY_NAME</string>
+    <string name="droidvalidate_default_alert_title">Validation error</string>
+    <string name="droidvalidate_default_alert_message">Please fix the following errors before continuing:</string>
+    <string name="droidvalidate_default_field_name">Field</string>
+    <string name="droidvalidate_error_textview_cannot_be_empty">%s cannot be empty.</string>
+    <string name="droidvalidate_error_textview_length_between" formatted="false">%s must be between %d and %d characters.</string>
+    <string name="droidvalidate_error_textview_length_exact" formatted="false">%s must be exactly %d characters.</string>
+    <string name="droidvalidate_error_textview_too_long" formatted="false">"%s must be less than %d characters."</string>
+    <string name="droidvalidate_error_textview_too_short" formatted="false">"%s must be more than %d characters."</string>
+    <string name="droidvalidate_error_fields_must_match" formatted="false">"%s and %s do not match."</string>
+    <string name="droidvalidate_text_OK">OK</string>
+</resources>

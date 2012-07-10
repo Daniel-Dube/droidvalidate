@@ -14,3 +14,14 @@ gen/
 
 # Local configuration file (sdk path, etc)
 local.properties
+
+# IDEA Ignores
+*.iml
+*.ipr
+*.iws
+.idea/
+local.properties
+
+# OS generated files
+
+*.DS_Store
