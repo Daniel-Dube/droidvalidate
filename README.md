@@ -1,3 +1,5 @@
+#OLD, NOT MAINTAINED
+
 [example_project_repo]:https://github.com/weefbellington/droidvalidate-examples
 
 ##About
